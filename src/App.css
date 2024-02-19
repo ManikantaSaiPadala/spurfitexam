@@ -36,3 +36,135 @@
     transform: rotate(360deg);
   }
 }
+
+.ul-list{
+  list-style-type: none;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 10px;
+}
+
+.list-items{
+  padding: 10px;
+  margin: 5px;
+}
+
+.head-div{
+  padding: 1px;
+}
+
+.butn{
+  background-color: black;
+  color: beige;
+  padding: 5px;
+  border-radius: 5px;
+  height: 40px;
+  margin: 5px;
+}
+
+.emotional{
+  display: flex;
+}
+
+.emo-para{
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-self: center;
+}
+
+.paras{
+  padding: 10px;
+  margin: 5px;
+}
+
+.img{
+  width: 150px;
+  height: 200px;
+  margin: 5px;
+}
+
+.ahead{
+  background-color: aqua;
+  border-radius: 20px;
+  padding: 10px;
+  margin: 10px;
+}
+
+.wonder{
+  background-color: bisque;
+  border-radius: 20px;
+  padding: 10px;
+  margin: 10px;
+}
+
+.inside-div{
+  display: flex;
+  margin: 10px;
+}
+
+.divs-nums {
+  display: flex;
+  margin: 7px;
+  padding: 10px;
+}
+
+.div-1{
+  background-color: blue;
+  border-radius: 5px;
+  margin: 3px;
+  padding: 10px;
+}
+
+.div-2{
+  background-color: darkcyan;
+  border-radius: 5px;
+  margin: 3px;
+  padding: 10px;
+}
+
+.div-3{
+  background-color: chartreuse;
+  border-radius: 5px;
+  margin: 3px;
+  padding: 10px;
+}
+
+.div-4{
+  background-color: coral;
+  border-radius: 5px;
+  margin: 3px;
+  padding: 10px;
+}
+
+
+
+.privacy{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  border-radius: 10px;
+  padding: 10px;
+  margin: 10px;
+  background-color: aquamarine;
+}
+
+.mar{
+  margin: 10px;
+}
+
+.master-life{
+  background-color: darkslategrey;
+  padding: 10px;
+  margin: 10px;
+  border-radius: 10px;
+}
+
+.head-img{
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin: 10px;
+}
